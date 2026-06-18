@@ -33,7 +33,7 @@ Make the setup script executable and run it to install required X11 and OpenGL l
 chmod +x install-libraries.sh
 ./install-libraries.sh
 
-### Structure
+--Structure--
 
 rush-hour-cpp/
 ├── CImg.h                # Core graphics library wrapper
